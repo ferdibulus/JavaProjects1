@@ -2,6 +2,7 @@
 All samples are contain every single details for classes.
 
   <-----------Subjects---------->
+  
   1-Inheritance
   
   2-Encapsulation
