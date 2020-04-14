@@ -1,0 +1,26 @@
+package javaLesson;
+
+import java.util.Scanner;
+
+public class javaLesson1 {
+
+	public static void main(String args[]) {
+		int firstNumber,secondNumber;
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Enter two numbers:");
+		firstNumber = scanner.nextInt();
+		secondNumber = scanner.nextInt();
+		System.out.println("First Number=" + firstNumber);
+		System.out.println("Second Number=" + secondNumber);
+		
+		
+		double thirdNumber,fourthNumber;
+		Scanner scannerDouble = new Scanner(System.in);
+		System.out.println("Double sayi giriniz=");
+		thirdNumber = scannerDouble.nextDouble();
+		fourthNumber = scannerDouble.nextDouble();
+		System.out.println("Third Number=" + thirdNumber);
+		System.out.println("Fourth Number=" + fourthNumber);
+		
+	}
+}

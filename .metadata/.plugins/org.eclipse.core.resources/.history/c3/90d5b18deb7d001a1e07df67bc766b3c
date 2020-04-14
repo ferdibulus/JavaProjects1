@@ -1,0 +1,14 @@
+
+public class KapsamSinifi2 {
+    private int privateDegisken = 30;
+    
+    public KapsamSinifi2() {
+    	
+    }
+    
+    public class DahiliSinif{
+    	 for(int i=1; i<6; i++) {
+			 System.out.println(i + "*" +this.privateDegisken + " =" +(i*this.privateDegisken));
+		 }
+    }
+}

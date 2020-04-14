@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;Hayvan.isim&apos; in &apos;Hayvan&apos;&#x0D;&#x0A;- Original project: &apos;Polymorphizm&apos;&#x0D;&#x0A;- Original element: &apos;Hayvan.isim&apos;&#x0D;&#x0A;- Getter method name: &apos;getIsim&apos;&#x0D;&#x0A;- Setter method name: &apos;setIsim&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;isim&apos;" flags="589830" getter="getIsim" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;{Main.java[Hayvan^isim" insertion="0" setter="setIsim" stamp="1583621339127" version="1.0" visibility="1"/>
+</session>
